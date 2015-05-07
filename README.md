@@ -4,7 +4,7 @@ Lessons Attempted:
 A1
 A2
 A3
-A4 - Finished Project
+A4 - Finished Project \n
 A5 - Finished Project
 A6 - Finished Project
 A7 - Finished Project
